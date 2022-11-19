@@ -1,0 +1,338 @@
+
+
+<! DO CT Y
+
+PE
+ht m l>
+<html lang="en">
+
+<head>
+
+<title>Data Analytics</title>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+ 
+<script
+
+
+</head>
+
+<body>
+ 
+
+
+src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+ 
+
+
+<nav class="navbar navbar-inverse ">
+
+<div class="container-fluid">
+
+<div class="navbar-header">
+
+<a class="navbar-brand" href="#">Analytics for Hospitals' Health-Care Data</a>
+
+</div>
+
+<ul class="nav navbar-nav">
+
+<li><a href="index.html">Home</a></li>
+
+<li class="active"><a href="#">Dashboard</a></li>
+
+<li><a href="report.html">Report</a></li>
+
+<li><a href="story.html">Story</a></li>
+
+</ul>
+
+</div>
+
+</nav>
+
+
+
+<div class="container">
+
+<iframe
+
+
+src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2F Sprint%2B2%2FFinal%2BDashboard&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_n avbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model000
+00184774a03ac_00000002"
+width="1500" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+</div>
+
+
+
+</body>
+
+</html>
+ 
+
+
+
+Index html
+<!DOCTYPE
+
+ 
+
+html>
+ 
+
+
+
+<html lang="en">
+
+<head>
+
+<title>Data Analytics</title>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></scrip
+t>
+ 
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></scr ipt>
+</head>
+
+<body>
+
+
+
+
+<nav class="navbar navbar-inverse">
+
+<div class="container-fluid">	<div class="navbar-header">
+<a class="navbar-brand" href="#">Analytics for Hospitals' Health-Care Data</a>	</div>
+
+<ul class="nav navbar-nav">
+
+<li class="active"><a href="#">Home</a></li>
+
+<li><a href="dashboard.html">Dashboard</a></li>
+
+<li><a href="report.html">Report</a></li>
+
+<li><a href="story.html">Story</a></li>
+
+</ul>
+
+</div>
+
+</nav>
+
+
+
+
+
+<div class="jumbotron">
+
+<center> <h4><i><b>Team ID : PNT2022TMID08776 </b></i></h4></center>
+ 
+
+
+</div>
+
+<table class="table table-bordered">
+
+
+
+
+<tbody>
+
+<tr>
+
+<td>Team Leader</td>
+
+<td>SATHISH KUMAR S</td>
+
+
+
+
+</tr>
+
+<tr>
+
+<td>Team member</td>
+
+<td>MONASRI A</td>
+
+
+
+
+</tr>
+
+<tr>
+
+<td>Team member</td>
+
+<td>LOGITHA R</td>
+
+
+
+
+</tr>
+
+<tr>
+
+<td>Team member</td>
+
+<td>ABIRAMI V </td>
+
+
+
+
+</tr>
+
+</tbody>
+
+</table>
+
+</body>
+
+</html>
+ 
+Report html
+
+
+ 
+<!DOC TYPE
+html>
+ 
+
+
+
+
+<html lang="en">
+
+<head>
+
+<title>Data Analytics</title>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script
+src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+
+
+<nav class="navbar navbar-inverse ">
+
+<div class="container-fluid">
+
+<div class="navbar-header">
+
+<a class="navbar-brand" href="#">Analytics for Hospitals' Health-Care Data</a>
+
+</div>
+
+<ul class="nav navbar-nav">
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="dashboard.html">Dashboard</a></li>
+
+<li class="active"><a href="#">Report</a></li>
+
+<li><a href="story.html">Story</a></li>
+
+</ul>
+
+</div>
+
+</nav>
+ 
+
+<div class="container">
+
+<iframe
+
+
+src="https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FReport%2FFinal%2BRepor t&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode
+=embedded&amp;action=edit"
+width="1500" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+</br>
+
+
+
+</div>
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+Story html
+
+
+<!D
+OCT
+YPE
+htm
+l>
+<html lang="en">
+<head>
+<title>Data Analytics</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+ 
+<body>
+
+
+<nav class="navbar navbar-inverse ">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="#">Analytics for Hospitals' Health-Care Data</a>
+</div>
+<ul class="nav navbar-nav">
+<li><a href="index.html">Home</a></li>
+<li><a href="dashboard.html">Dashboard</a></li>
+<li><a href="report.html">Report</a></li>
+<li class="active"><a href="#">Story</a></li>
+</ul>
+</div>
+</nav>
+
+
+<div class="container">
+<iframe
+src="https://us1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2Fstory%2FNew%2Bstory&amp;clo seWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneI
+d=model00000184574031b2_00000002&amp;sceneTime=0"
+width="1500" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+</div>
+
+
+</body>
+
+</html>
